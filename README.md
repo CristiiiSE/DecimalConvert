@@ -3,7 +3,7 @@
 
 
 ```
-```diff
+diff
 Decimal to Binary, Hexa or Octal. Choises have to be made in life. ✨
 ```
 ```
