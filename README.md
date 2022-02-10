@@ -3,9 +3,9 @@
 
 > Download EXE file: https://mega.nz/file/iMoWjYTK#dSoBtxP1nM9oYIbCSiM0UjQFmrtLPoPXNZHLjU4sSI8
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Little brother is on the Google Play Store.
+- [x] Coming to the Microsoft Store in the near feature.
+- [x] No need for external dll files! :tada:
 
 ```
 Decimal to Binary, Hexa or Octal
