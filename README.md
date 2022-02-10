@@ -3,5 +3,6 @@
 
 > Download EXE file: https://mega.nz/file/iMoWjYTK#dSoBtxP1nM9oYIbCSiM0UjQFmrtLPoPXNZHLjU4sSI8
 
+```
 Decimal to Binary, Hexa or Octal
-
+```
