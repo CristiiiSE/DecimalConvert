@@ -3,7 +3,7 @@
 
 
 ```
-Decimal to Binary, Hexa or Octal. Choises have to be made in life. ✨
+`#ffffff` Decimal to Binary, Hexa or Octal. Choises have to be made in life. ✨
 ```
 
 
