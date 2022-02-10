@@ -3,10 +3,9 @@
 
 
 ```
-diff
 Decimal to Binary, Hexa or Octal. Choises have to be made in life. ✨
 ```
-```
+
 
 > Download EXE file: https://mega.nz/file/iMoWjYTK#dSoBtxP1nM9oYIbCSiM0UjQFmrtLPoPXNZHLjU4sSI8
 
